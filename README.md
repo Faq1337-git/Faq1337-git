@@ -11,7 +11,7 @@
 
 <br>
 
-- Soy Desarrolador Backend y estoy aprendiendo Frontend.
+- Soy Desarrollador Backend y estoy aprendiendo Frontend.
 - Me recibi de Analista Programador Universitario y Técnico en Administración de Empresas.
 - Mi lenguaje de programacion favorito son Java y Python.
 
